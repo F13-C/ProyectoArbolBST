@@ -52,5 +52,7 @@ Se ha desarrollado un **Árbol Binario de Búsqueda** desde cero con las siguien
     ```
 
 ---
+Link del repositorio de pruebas y fallos hasta lograr resultado final:
+https://github.com/F13-C/ProyectoFinalArbol.git
 
 > *Este proyecto fue desarrollado como parte de la evaluación del tercer semestre de Ingeniería en Sistemas - UDV.*
